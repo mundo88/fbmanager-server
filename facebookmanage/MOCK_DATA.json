@@ -1,0 +1,14 @@
+[
+    {
+        "tagName": "textarea",
+        "label": "Nội dung bình luận",
+        "placeholder": "Nhập nội dung (mỗi nội dung một dòng)",
+        "name": "contents"
+    },
+    {
+        "tagName": "textarea",
+        "label": "Link bài viết spam",
+        "placeholder": "Nhập link (mỗi nội dung một dòng)",
+        "name": "spam_urls"
+    }
+]
